@@ -1,0 +1,6 @@
+{
+	"ip":"minions01.aternos.me",
+	"port": "30652",
+	"name": "bot2",
+	"auto-night-skip":"true"
+}
